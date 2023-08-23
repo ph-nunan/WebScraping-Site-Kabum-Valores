@@ -1,4 +1,4 @@
-# WEBSCRAPPING - EXTRAÇÃO DE VALORES - SITE KABUM
+# WEBSCRAPING - EXTRAÇÃO DE VALORES - SITE KABUM
 
 Esse código em Python realiza a tarefa de coletar informações sobre cadeiras gamers do site "https://www.kabum.com.br/cadeiras/cadeiras-gamer" usando web scraping e, em seguida, armazena esses dados em um arquivo CSV. 
 
